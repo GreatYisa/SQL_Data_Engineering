@@ -21,6 +21,8 @@ Today you install your tools, create your GitHub project, build a database, run 
 
 ✅ **Checkpoint:** You see the DBeaver window with a **Database Navigator** panel on the left.
 
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/c33c6e5f-6115-4c4e-9c0e-5177076b49f2" />
+
 ### Step 1.2 — Install VS Code (your file editor)
 1. Go to **code.visualstudio.com** and click the download button for your system.
 2. Run the installer and accept the defaults.
